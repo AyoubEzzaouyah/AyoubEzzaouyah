@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is EZZAOUYAH Ayoub, and I'm an electronic student, from MOROCCO</h2>
+<h2 align="left">Hi 👋! My name is EZZAOUYAH Ayoub, and I'm an Electronics student, from MOROCCO</h2>
 
 ###
 
@@ -20,10 +20,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
