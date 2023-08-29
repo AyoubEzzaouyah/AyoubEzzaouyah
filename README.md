@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is EZZAOUYAH Ayoub, and I'm an Electronics student, from MOROCCO</h2>
+<h2 align="left">Hi 👋! My name is EZZAOUYAH Ayoub, and I'm an electronic student, from MOROCCO</h2>
 
 ###
 
